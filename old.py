@@ -1,4 +1,4 @@
-ef googleSearch(queries, output_mode,tld):
+def googleSearch(queries, output_mode,tld):
     result=[]
     #Run queries.
     if(output_mode == "-t"):
